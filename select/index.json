@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Afterthought",
+  "base_artist": "Tame Impala",
+  "createdAt": "2026-02-07T23:55:01.739522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Afterthought",
+      "artist": "In Fear and Faith",
+      "has_synced": true,
+      "path": "select/01_Afterthought_In_Fear_and_Faith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Afterthought",
+      "artist": "Disclosure",
+      "has_synced": true,
+      "path": "select/02_Afterthought_Disclosure.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Afterthought",
+      "artist": "Joji feat. BENEE",
+      "has_synced": true,
+      "path": "select/03_Afterthought_Joji_feat._BENEE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Afterthought",
+      "artist": "Joji, BENEE",
+      "has_synced": true,
+      "path": "select/04_Afterthought_Joji,_BENEE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Burn In The Afterthought",
+      "artist": "Stand Atlantic",
+      "has_synced": true,
+      "path": "select/05_Burn_In_The_Afterthought_Stand_Atlantic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Afterthought",
+      "artist": "Joji ft. BENEE",
+      "has_synced": true,
+      "path": "select/06_Afterthought_Joji_ft._BENEE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Afterthought",
+      "artist": "The Interrupters",
+      "has_synced": true,
+      "path": "select/07_Afterthought_The_Interrupters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Afterthought",
+      "artist": "Disclosure",
+      "has_synced": true,
+      "path": "select/08_Afterthought_Disclosure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Gift to Afterthought",
+      "artist": "Caligula's Horse",
+      "has_synced": true,
+      "path": "select/09_A_Gift_to_Afterthought_Caligula's_Horse.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ghetto Afterthought",
+      "artist": "Wugazi",
+      "has_synced": false,
+      "path": "select/10_Ghetto_Afterthought_Wugazi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Afterthought",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/11_Afterthought_Joji.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Died...An Afterthought",
+      "artist": "The Robot Ate Me",
+      "has_synced": false,
+      "path": "select/12_You_Died...An_Afterthought_The_Robot_Ate_Me.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Examining the Afterthought",
+      "artist": "Vylet Pony",
+      "has_synced": true,
+      "path": "select/13_Examining_the_Afterthought_Vylet_Pony.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Afterthought",
+      "artist": "WorshipMob",
+      "has_synced": false,
+      "path": "select/14_Afterthought_WorshipMob.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Afterthought",
+      "artist": "Tame Impala",
+      "has_synced": false,
+      "path": "select/pl_01_Afterthought_Tame_Impala.txt"
+    }
+  ]
+}
